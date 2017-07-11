@@ -1,0 +1,14 @@
+{
+  "name": "fcc-backend-request-header-parser",
+  "version": "1.0.0",
+  "description": "Test tasks for FCC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Dmitry Tenitskiy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
