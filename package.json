@@ -8,6 +8,10 @@
   },
   "author": "Dmitry Tenitskiy",
   "license": "ISC",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/dmiten/FCC-backend-RequestHeaderParser.git"
+  },
   "dependencies": {
     "express": "^4.15.3"
   }
